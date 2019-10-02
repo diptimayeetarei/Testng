@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression Test Suite" duration-ms="42" started-at="2019-10-02T06:56:43Z" finished-at="2019-10-02T06:56:43Z">
+    <groups>
+    </groups>
+    <test name=" Screen 1 Scenarios" duration-ms="42" started-at="2019-10-02T06:56:43Z" finished-at="2019-10-02T06:56:43Z">
+      <class name="annotations.TestClassTwo">
+        <test-method status="PASS" signature="myBeforeClassMethod()[pri:0, instance:annotations.TestClassTwo@3ecf72fd]" name="myBeforeClassMethod" is-config="true" duration-ms="0" started-at="2019-10-02T12:26:43Z" finished-at="2019-10-02T12:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myBeforeClassMethod -->
+        <test-method status="PASS" signature="myBeforeMethod()[pri:0, instance:annotations.TestClassTwo@3ecf72fd]" name="myBeforeMethod" is-config="true" duration-ms="0" started-at="2019-10-02T12:26:43Z" finished-at="2019-10-02T12:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myBeforeMethod -->
+        <test-method status="PASS" signature="myBeforeMethod()[pri:0, instance:annotations.TestClassTwo@3ecf72fd]" name="myBeforeMethod" is-config="true" duration-ms="4" started-at="2019-10-02T12:26:43Z" finished-at="2019-10-02T12:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myBeforeMethod -->
+        <test-method status="PASS" signature="TestMethodOne()[pri:0, instance:annotations.TestClassTwo@3ecf72fd]" name="TestMethodOne" duration-ms="0" started-at="2019-10-02T12:26:43Z" finished-at="2019-10-02T12:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMethodOne -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:annotations.TestClassTwo@3ecf72fd]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-10-02T12:26:43Z" finished-at="2019-10-02T12:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="TestMethodTwo()[pri:0, instance:annotations.TestClassTwo@3ecf72fd]" name="TestMethodTwo" duration-ms="3" started-at="2019-10-02T12:26:43Z" finished-at="2019-10-02T12:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMethodTwo -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:annotations.TestClassTwo@3ecf72fd]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-10-02T12:26:43Z" finished-at="2019-10-02T12:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="myAfterClass()[pri:0, instance:annotations.TestClassTwo@3ecf72fd]" name="myAfterClass" is-config="true" duration-ms="1" started-at="2019-10-02T12:26:43Z" finished-at="2019-10-02T12:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAfterClass -->
+      </class> <!-- annotations.TestClassTwo -->
+      <class name="annotations.TestClassOne">
+        <test-method status="PASS" signature="myBeforeSuite()[pri:0, instance:annotations.TestClassOne@64c64813]" name="myBeforeSuite" is-config="true" duration-ms="14" started-at="2019-10-02T12:26:43Z" finished-at="2019-10-02T12:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myBeforeSuite -->
+        <test-method status="PASS" signature="myBeforeTest()[pri:0, instance:annotations.TestClassOne@64c64813]" name="myBeforeTest" is-config="true" duration-ms="0" started-at="2019-10-02T12:26:43Z" finished-at="2019-10-02T12:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myBeforeTest -->
+        <test-method status="PASS" signature="myBeforeClassMethod()[pri:0, instance:annotations.TestClassOne@64c64813]" name="myBeforeClassMethod" is-config="true" duration-ms="0" started-at="2019-10-02T12:26:43Z" finished-at="2019-10-02T12:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myBeforeClassMethod -->
+        <test-method status="PASS" signature="myBeforeMethod()[pri:0, instance:annotations.TestClassOne@64c64813]" name="myBeforeMethod" is-config="true" duration-ms="4" started-at="2019-10-02T12:26:43Z" finished-at="2019-10-02T12:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myBeforeMethod -->
+        <test-method status="PASS" signature="TestMethodOne()[pri:0, instance:annotations.TestClassOne@64c64813]" name="TestMethodOne" duration-ms="6" started-at="2019-10-02T12:26:43Z" finished-at="2019-10-02T12:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMethodOne -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:annotations.TestClassOne@64c64813]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-10-02T12:26:43Z" finished-at="2019-10-02T12:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="myBeforeMethod()[pri:0, instance:annotations.TestClassOne@64c64813]" name="myBeforeMethod" is-config="true" duration-ms="1" started-at="2019-10-02T12:26:43Z" finished-at="2019-10-02T12:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myBeforeMethod -->
+        <test-method status="PASS" signature="TestMethodTwo()[pri:0, instance:annotations.TestClassOne@64c64813]" name="TestMethodTwo" duration-ms="0" started-at="2019-10-02T12:26:43Z" finished-at="2019-10-02T12:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMethodTwo -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:annotations.TestClassOne@64c64813]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-10-02T12:26:43Z" finished-at="2019-10-02T12:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="myAfterClass()[pri:0, instance:annotations.TestClassOne@64c64813]" name="myAfterClass" is-config="true" duration-ms="1" started-at="2019-10-02T12:26:43Z" finished-at="2019-10-02T12:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAfterClass -->
+        <test-method status="PASS" signature="myAfterTest()[pri:0, instance:annotations.TestClassOne@64c64813]" name="myAfterTest" is-config="true" duration-ms="0" started-at="2019-10-02T12:26:43Z" finished-at="2019-10-02T12:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAfterTest -->
+        <test-method status="PASS" signature="myAfterSuite()[pri:0, instance:annotations.TestClassOne@64c64813]" name="myAfterSuite" is-config="true" duration-ms="1" started-at="2019-10-02T12:26:43Z" finished-at="2019-10-02T12:26:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAfterSuite -->
+      </class> <!-- annotations.TestClassOne -->
+    </test> <!--  Screen 1 Scenarios -->
+  </suite> <!-- Regression Test Suite -->
+</testng-results>

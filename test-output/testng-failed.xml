@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Regression Test Suite]">
+  <test name=" Screen 1 Scenarios">
+    <classes>
+      <class name="annotations.TestClassOne"/>
+      <class name="annotations.TestClassTwo"/>
+    </classes>
+  </test> <!--  Screen 1 Scenarios -->
+</suite> <!-- Failed suite [Regression Test Suite] -->
